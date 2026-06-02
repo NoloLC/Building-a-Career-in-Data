@@ -1,28 +1,40 @@
-# -Danilo-Fonseca-Building-a-Career-in-Data
+# -Danilo-Fonseca-Building-a-Career-in-Data 
 
+# 👋 Hi, I'm Danilo
 
+### 📊 Data Analytics → Data Engineering
 
-# Hi, I'm Danilo
+Building projects, documenting my learning and developing a strong foundation in data.
 
-## Career Roadmap
+## 🚀 Currently Learning
 
-Data Analytics → Data Engineering
+- 🐍 Python
+- 🗄️ SQL
+- 🐘 PostgreSQL
+- 🐧 Linux
+- 📈 Power BI
+- 🌿 Git & GitHub
 
-## Currently Learning
+## 🎯 Career Goals
+
+- 📊 Become a Data Analyst
+- ⚙️ Transition to Data Engineering
+- ☁️ Learn Cloud Technologies
+- 🏗️ Build Scalable Data Pipelines
+
+## 📚 Current Study Roadmap
 
 - Python
 - SQL
-- PostgreSQL
-- Git & GitHub
-- Linux
-- Power BI
+- Data Analysis
+- Data Visualization
+- Data Warehousing
+- Data Engineering
 
-## Goals
+## 🛠️ Technologies
 
-- Build a strong portfolio
-- Land my first data role
-- Become a Data Engineer
+🐍 Python | 🗄️ SQL | 🐘 PostgreSQL | 🐧 Linux | 🌿 Git | 📈 Power BI
 
-## Featured Projects
+## 📂 Featured Projects
 
 Coming soon...
