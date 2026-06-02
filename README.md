@@ -1,6 +1,6 @@
-# -Danilo-Fonseca-Building-a-Career-in-Data 
+# Building-a-Career-in-Data 📊
 
-# 👋 Hi, I'm Danilo
+## 👋 Hi, I'm Danilo
 
 ### 📊 Data Analytics → Data Engineering
 
